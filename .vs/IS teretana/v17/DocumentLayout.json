@@ -1,90 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sumej\\source\\repos\\IS teretana\\",
+  "WorkspaceRootPath": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\sumej\\source\\repos\\is teretana\\is teretana\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\ensar\\desktop\\projekti\\teretana\\is teretana\\views\\clan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\views\\clan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\sumej\\source\\repos\\is teretana\\is teretana\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\ensar\\desktop\\projekti\\teretana\\is teretana\\views\\plantreninga\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\views\\plantreninga\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\ensar\\desktop\\projekti\\teretana\\is teretana\\views\\povratnainformacija\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\views\\povratnainformacija\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\ensar\\desktop\\projekti\\teretana\\is teretana\\views\\poruka\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\views\\poruka\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\ensar\\desktop\\projekti\\teretana\\is teretana\\views\\izvjestaj\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\views\\izvjestaj\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\ensar\\desktop\\projekti\\teretana\\is teretana\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\ensar\\desktop\\projekti\\teretana\\is teretana\\views\\termintreninga\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\views\\termintreninga\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\ensar\\desktop\\projekti\\teretana\\is teretana\\views\\trener\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\views\\trener\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\ensar\\desktop\\projekti\\teretana\\is teretana\\views\\teretanas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\views\\teretanas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\ensar\\desktop\\projekti\\teretana\\is teretana\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\sumej\\source\\repos\\is teretana\\is teretana\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\ensar\\desktop\\projekti\\teretana\\is teretana\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\sumej\\source\\repos\\is teretana\\is teretana\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\ensar\\desktop\\projekti\\teretana\\is teretana\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\sumej\\source\\repos\\is teretana\\is teretana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\ensar\\desktop\\projekti\\teretana\\is teretana\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\sumej\\source\\repos\\is teretana\\is teretana\\migrations\\20250510175954_drugamigracija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\migrations\\20250510175954_drugamigracija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\ensar\\desktop\\projekti\\teretana\\is teretana\\views\\napredak\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\views\\napredak\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\sumej\\source\\repos\\is teretana\\is teretana\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\sumej\\source\\repos\\is teretana\\is teretana\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\sumej\\source\\repos\\is teretana\\is teretana\\models\\plantreninga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\models\\plantreninga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\sumej\\source\\repos\\is teretana\\is teretana\\models\\termintreninga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\models\\termintreninga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\sumej\\source\\repos\\is teretana\\is teretana\\controllers\\plantreningacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\controllers\\plantreningacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\sumej\\source\\repos\\is teretana\\is teretana\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\sumej\\source\\repos\\is teretana\\is teretana\\controllers\\trenercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\controllers\\trenercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\sumej\\source\\repos\\is teretana\\is teretana\\controllers\\termintreningacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\controllers\\termintreningacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\sumej\\source\\repos\\is teretana\\is teretana\\controllers\\teretanacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\controllers\\teretanacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\sumej\\source\\repos\\is teretana\\is teretana\\controllers\\povratnainformacijacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\controllers\\povratnainformacijacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\sumej\\source\\repos\\is teretana\\is teretana\\controllers\\porukacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\controllers\\porukacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\sumej\\source\\repos\\is teretana\\is teretana\\controllers\\napredakcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\controllers\\napredakcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\sumej\\source\\repos\\is teretana\\is teretana\\controllers\\izvjestajcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\controllers\\izvjestajcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\sumej\\source\\repos\\is teretana\\is teretana\\controllers\\clancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\controllers\\clancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\sumej\\source\\repos\\is teretana\\is teretana\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\ensar\\desktop\\projekti\\teretana\\is teretana\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,12 +70,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -110,261 +82,198 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "IS teretana\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "IS teretana\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T17:55:39.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TerminTreninga.cs",
-              "DocumentMoniker": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Models\\TerminTreninga.cs",
-              "RelativeDocumentMoniker": "IS teretana\\Models\\TerminTreninga.cs",
-              "ToolTip": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Models\\TerminTreninga.cs",
-              "RelativeToolTip": "IS teretana\\Models\\TerminTreninga.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T12:07:29.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PlanTreninga.cs",
-              "DocumentMoniker": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Models\\PlanTreninga.cs",
-              "RelativeDocumentMoniker": "IS teretana\\Models\\PlanTreninga.cs",
-              "ToolTip": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Models\\PlanTreninga.cs",
-              "RelativeToolTip": "IS teretana\\Models\\PlanTreninga.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T17:19:31.462Z"
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Clan\\Index.cshtml",
+              "RelativeDocumentMoniker": "IS teretana\\Views\\Clan\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Clan\\Index.cshtml",
+              "RelativeToolTip": "IS teretana\\Views\\Clan\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T15:03:33.254Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "IS teretana\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "IS teretana\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAqwEYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T10:11:24.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "IS teretana\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "IS teretana\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAMcAAAAAAAAAAAAIwOUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\PlanTreninga\\Index.cshtml",
+              "RelativeDocumentMoniker": "IS teretana\\Views\\PlanTreninga\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\PlanTreninga\\Index.cshtml",
+              "RelativeToolTip": "IS teretana\\Views\\PlanTreninga\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T10:10:08.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "IS teretana\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "IS teretana\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-12T12:02:44.952Z",
+              "WhenOpened": "2025-06-01T15:03:01.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "index.css",
-              "DocumentMoniker": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\wwwroot\\css\\index.css",
-              "RelativeDocumentMoniker": "IS teretana\\wwwroot\\css\\index.css",
-              "ToolTip": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\wwwroot\\css\\index.css",
-              "RelativeToolTip": "IS teretana\\wwwroot\\css\\index.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-14T10:42:16.659Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\PovratnaInformacija\\Index.cshtml",
+              "RelativeDocumentMoniker": "IS teretana\\Views\\PovratnaInformacija\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\PovratnaInformacija\\Index.cshtml",
+              "RelativeToolTip": "IS teretana\\Views\\PovratnaInformacija\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T15:02:24.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Poruka\\Index.cshtml",
+              "RelativeDocumentMoniker": "IS teretana\\Views\\Poruka\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Poruka\\Index.cshtml",
+              "RelativeToolTip": "IS teretana\\Views\\Poruka\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T15:00:05.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Program.cs",
-              "RelativeDocumentMoniker": "IS teretana\\Program.cs",
-              "ToolTip": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Program.cs",
-              "RelativeToolTip": "IS teretana\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T13:01:08.551Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Izvjestaj\\Index.cshtml",
+              "RelativeDocumentMoniker": "IS teretana\\Views\\Izvjestaj\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Izvjestaj\\Index.cshtml",
+              "RelativeToolTip": "IS teretana\\Views\\Izvjestaj\\Index.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T14:59:25.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "20250510175954_DrugaMigracija.cs",
-              "DocumentMoniker": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Migrations\\20250510175954_DrugaMigracija.cs",
-              "RelativeDocumentMoniker": "IS teretana\\Migrations\\20250510175954_DrugaMigracija.cs",
-              "ToolTip": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Migrations\\20250510175954_DrugaMigracija.cs",
-              "RelativeToolTip": "IS teretana\\Migrations\\20250510175954_DrugaMigracija.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T17:59:55.629Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "IS teretana\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "IS teretana\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T14:57:13.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\appsettings.json",
-              "RelativeDocumentMoniker": "IS teretana\\appsettings.json",
-              "ToolTip": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\appsettings.json",
-              "RelativeToolTip": "IS teretana\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-10T17:57:18.633Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\TerminTreninga\\Index.cshtml",
+              "RelativeDocumentMoniker": "IS teretana\\Views\\TerminTreninga\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\TerminTreninga\\Index.cshtml",
+              "RelativeToolTip": "IS teretana\\Views\\TerminTreninga\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T14:56:28.437Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TeretanaController.cs",
-              "DocumentMoniker": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Controllers\\TeretanaController.cs",
-              "RelativeDocumentMoniker": "IS teretana\\Controllers\\TeretanaController.cs",
-              "ToolTip": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Controllers\\TeretanaController.cs",
-              "RelativeToolTip": "IS teretana\\Controllers\\TeretanaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:16:50.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TerminTreningaController.cs",
-              "DocumentMoniker": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Controllers\\TerminTreningaController.cs",
-              "RelativeDocumentMoniker": "IS teretana\\Controllers\\TerminTreningaController.cs",
-              "ToolTip": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Controllers\\TerminTreningaController.cs",
-              "RelativeToolTip": "IS teretana\\Controllers\\TerminTreningaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:17:09.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PlanTreningaController.cs",
-              "DocumentMoniker": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Controllers\\PlanTreningaController.cs",
-              "RelativeDocumentMoniker": "IS teretana\\Controllers\\PlanTreningaController.cs",
-              "ToolTip": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Controllers\\PlanTreningaController.cs",
-              "RelativeToolTip": "IS teretana\\Controllers\\PlanTreningaController.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAmwAwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:15:23.199Z"
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Trener\\Index.cshtml",
+              "RelativeDocumentMoniker": "IS teretana\\Views\\Trener\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Trener\\Index.cshtml",
+              "RelativeToolTip": "IS teretana\\Views\\Trener\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T14:55:41.774Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "IS teretana\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "IS teretana\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:32:20.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PovratnaInformacijaController.cs",
-              "DocumentMoniker": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Controllers\\PovratnaInformacijaController.cs",
-              "RelativeDocumentMoniker": "IS teretana\\Controllers\\PovratnaInformacijaController.cs",
-              "ToolTip": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Controllers\\PovratnaInformacijaController.cs",
-              "RelativeToolTip": "IS teretana\\Controllers\\PovratnaInformacijaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:16:19.165Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PorukaController.cs",
-              "DocumentMoniker": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Controllers\\PorukaController.cs",
-              "RelativeDocumentMoniker": "IS teretana\\Controllers\\PorukaController.cs",
-              "ToolTip": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Controllers\\PorukaController.cs",
-              "RelativeToolTip": "IS teretana\\Controllers\\PorukaController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T18:57:56.382Z"
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "IS teretana\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "IS teretana\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T14:53:48.013Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "TrenerController.cs",
-              "DocumentMoniker": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Controllers\\TrenerController.cs",
-              "RelativeDocumentMoniker": "IS teretana\\Controllers\\TrenerController.cs",
-              "ToolTip": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Controllers\\TrenerController.cs",
-              "RelativeToolTip": "IS teretana\\Controllers\\TrenerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:18:12.994Z"
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "IS teretana\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "IS teretana\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T14:53:45.398Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "NapredakController.cs",
-              "DocumentMoniker": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Controllers\\NapredakController.cs",
-              "RelativeDocumentMoniker": "IS teretana\\Controllers\\NapredakController.cs",
-              "ToolTip": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Controllers\\NapredakController.cs",
-              "RelativeToolTip": "IS teretana\\Controllers\\NapredakController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:14:55.427Z"
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Teretanas\\Index.cshtml",
+              "RelativeDocumentMoniker": "IS teretana\\Views\\Teretanas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Teretanas\\Index.cshtml",
+              "RelativeToolTip": "IS teretana\\Views\\Teretanas\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADQAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T14:51:25.866Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IzvjestajController.cs",
-              "DocumentMoniker": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Controllers\\IzvjestajController.cs",
-              "RelativeDocumentMoniker": "IS teretana\\Controllers\\IzvjestajController.cs",
-              "ToolTip": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Controllers\\IzvjestajController.cs",
-              "RelativeToolTip": "IS teretana\\Controllers\\IzvjestajController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:14:22.127Z"
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Napredak\\Index.cshtml",
+              "RelativeDocumentMoniker": "IS teretana\\Views\\Napredak\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Napredak\\Index.cshtml",
+              "RelativeToolTip": "IS teretana\\Views\\Napredak\\Index.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T14:48:03.867Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ClanController.cs",
-              "DocumentMoniker": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Controllers\\ClanController.cs",
-              "RelativeDocumentMoniker": "IS teretana\\Controllers\\ClanController.cs",
-              "ToolTip": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Controllers\\ClanController.cs",
-              "RelativeToolTip": "IS teretana\\Controllers\\ClanController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:13:48.941Z"
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "IS teretana\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "IS teretana\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBgAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T14:15:07.168Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "IS teretana\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\sumej\\source\\repos\\IS teretana\\IS teretana\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "IS teretana\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwBYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T18:49:46.085Z"
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IS teretana\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IS teretana\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T14:05:20.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "IS teretana\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "IS teretana\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T13:51:22.83Z",
+              "EditorCaption": ""
             }
           ]
         }

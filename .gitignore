@@ -1,0 +1,37 @@
+# Build
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# User-specific
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# ASP.NET Core
+wwwroot/lib/
+*.db
+*.db-shm
+*.db-wal
+
+# Razor cache
+**/GeneratedMSBuildEditorConfig.editorconfig
+**/AssemblyInfoInputs.cache
+
+# Publish
+publish/
+*.publish.xml
+
+# Other
+*.log
+*.cache
+*.tmp

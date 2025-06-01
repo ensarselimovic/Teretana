@@ -9,48 +9,101 @@
     <link rel="stylesheet" href="~/IS_teretana.styles.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/nicepage.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/index.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 
+    <style>
+        /* Animacije za linkove */
+        .nav-link-anim {
+            position: relative;
+            transition: color 0.3s ease, transform 0.3s ease;
+        }
+
+            .nav-link-anim:hover,
+            .nav-link-anim:focus {
+                color: #0d6efd;
+                transform: translateY(-3px);
+            }
+
+            .nav-link-anim i {
+                transition: transform 0.3s ease;
+            }
+
+            .nav-link-anim:hover i,
+            .nav-link-anim:focus i {
+                transform: scale(1.2) rotate(10deg);
+            }
+
+        /* Suptilna boja i sjenka za navbar header */
+        nav.navbar {
+            background: linear-gradient(180deg, #ffffff 0%, #f8f9fa 100%);
+            box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+            transition: background-color 0.3s ease;
+        }
+    </style>
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">IS_teretana</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
+                <a class="navbar-brand fw-bold text-primary d-flex align-items-center" asp-area="" asp-controller="Home" asp-action="Index" style="gap: 0.4rem;">
+                    <i class="bi bi-gym fs-3 animate__animated animate__pulse animate__infinite infinite"></i> IS_teretana
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-dark d-flex align-items-center nav-link-anim" asp-area="" asp-controller="Home" asp-action="Index">
+                                <i class="bi bi-house-door me-2"></i> Home
+                            </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <a class="nav-link text-dark d-flex align-items-center nav-link-anim" asp-area="" asp-controller="Home" asp-action="Privacy">
+                                <i class="bi bi-shield-lock me-2"></i> Privacy
+                            </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark " asp-area="" asp-controller="Clan" asp-action="Index">Clan</a>
+                            <a class="nav-link text-dark d-flex align-items-center nav-link-anim" asp-area="" asp-controller="Clan" asp-action="Index">
+                                <i class="bi bi-people me-2"></i> Clan
+                            </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark " asp-area="" asp-controller="Napredak" asp-action="Index">Napredak</a>
+                            <a class="nav-link text-dark d-flex align-items-center nav-link-anim" asp-area="" asp-controller="Napredak" asp-action="Index">
+                                <i class="bi bi-bar-chart-line me-2"></i> Napredak
+                            </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark " asp-area="" asp-controller="PlanTreninga" asp-action="Index">PlanTreninga</a>
+                            <a class="nav-link text-dark d-flex align-items-center nav-link-anim" asp-area="" asp-controller="PlanTreninga" asp-action="Index">
+                                <i class="bi bi-calendar-check me-2"></i> PlanTreninga
+                            </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark " asp-area="" asp-controller="Poruka" asp-action="Index">Poruka</a>
+                            <a class="nav-link text-dark d-flex align-items-center nav-link-anim" asp-area="" asp-controller="Poruka" asp-action="Index">
+                                <i class="bi bi-chat-left-text me-2"></i> Poruka
+                            </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark " asp-area="" asp-controller="PovratnaInformacija" asp-action="Index">PovratnaInformacija</a>
+                            <a class="nav-link text-dark d-flex align-items-center nav-link-anim" asp-area="" asp-controller="PovratnaInformacija" asp-action="Index">
+                                <i class="bi bi-info-circle me-2"></i> PovratnaInformacija
+                            </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark " asp-area="" asp-controller="Teretana" asp-action="Index">Teretana</a>
+                            <a class="nav-link text-dark d-flex align-items-center nav-link-anim" asp-area="" asp-controller="Teretanas" asp-action="Index">
+                                <i class="bi bi-building me-2"></i> Teretana
+                            </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark " asp-area="" asp-controller="TerminTreninga" asp-action="Index">TerminTreninga</a>
+                            <a class="nav-link text-dark d-flex align-items-center nav-link-anim" asp-area="" asp-controller="TerminTreninga" asp-action="Index">
+                                <i class="bi bi-clock me-2"></i> TerminTreninga
+                            </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark " asp-area="" asp-controller="Trener" asp-action="Index">Trener</a>
+                            <a class="nav-link text-dark d-flex align-items-center nav-link-anim" asp-area="" asp-controller="Trener" asp-action="Index">
+                                <i class="bi bi-person-badge me-2"></i> Trener
+                            </a>
                         </li>
                     </ul>
                     <partial name="_LoginPartial" />

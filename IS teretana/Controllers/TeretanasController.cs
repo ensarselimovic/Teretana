@@ -10,26 +10,22 @@ using IS_teretana.Data;
 
 namespace IS_teretana.Controllers
 {
-    public class TeretanaController : Controller
+    public class TeretanasController : Controller
     {
         private readonly ApplicationDbContext _context;
 
-        public TeretanaController(ApplicationDbContext context)
+        public TeretanasController(ApplicationDbContext context)
         {
             _context = context;
         }
 
-        // GET: Teretana
-        [HttpGet]
-        [Route("[Controller]/[Action]")]
+        // GET: Teretanas
         public async Task<IActionResult> Index()
         {
             return View(await _context.Teretana.ToListAsync());
         }
 
-        // GET: Teretana/Details/5
-        [HttpGet]
-        [Route("[Controller]/[Action]")]
+        // GET: Teretanas/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -47,20 +43,17 @@ namespace IS_teretana.Controllers
             return View(teretana);
         }
 
-        // GET: Teretana/Create
-        [HttpGet]
-        [Route("[Controller]/[Action]")]
+        // GET: Teretanas/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Teretana/Create
+        // POST: Teretanas/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        [Route("[Controller]/[Action]")]
         public async Task<IActionResult> Create([Bind("ID,Naziv,Adresa,Kontakt,RadnoVrijeme")] Teretana teretana)
         {
             if (ModelState.IsValid)
@@ -72,9 +65,7 @@ namespace IS_teretana.Controllers
             return View(teretana);
         }
 
-        // GET: Teretana/Edit/5
-        [HttpGet]
-        [Route("[Controller]/[Action]")]
+        // GET: Teretanas/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -90,12 +81,11 @@ namespace IS_teretana.Controllers
             return View(teretana);
         }
 
-        // POST: Teretana/Edit/5
+        // POST: Teretanas/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        [Route("[Controller]/[Action]")]
         public async Task<IActionResult> Edit(int id, [Bind("ID,Naziv,Adresa,Kontakt,RadnoVrijeme")] Teretana teretana)
         {
             if (id != teretana.ID)
@@ -126,9 +116,7 @@ namespace IS_teretana.Controllers
             return View(teretana);
         }
 
-        // GET: Teretana/Delete/5
-        [HttpGet]
-        [Route("[Controller]/[Action]")]
+        // GET: Teretanas/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -146,10 +134,9 @@ namespace IS_teretana.Controllers
             return View(teretana);
         }
 
-        // POST: Teretana/Delete/5
+        // POST: Teretanas/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        [Route("[Controller]/[Action]")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var teretana = await _context.Teretana.FindAsync(id);

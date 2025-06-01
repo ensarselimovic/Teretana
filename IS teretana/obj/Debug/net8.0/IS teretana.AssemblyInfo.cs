@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IS teretana")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7de13d5db596acbb0b553fd45e90f5d8f3bee90d")]
 [assembly: System.Reflection.AssemblyProductAttribute("IS teretana")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IS teretana")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
