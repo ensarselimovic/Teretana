@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\ensar\\desktop\\projekti\\teretana\\is teretana\\views\\clan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\views\\clan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\ensar\\desktop\\projekti\\teretana\\is teretana\\views\\plantreninga\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\views\\plantreninga\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\ensar\\desktop\\projekti\\teretana\\is teretana\\views\\povratnainformacija\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\views\\povratnainformacija\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\ensar\\desktop\\projekti\\teretana\\is teretana\\views\\poruka\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\views\\poruka\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\ensar\\desktop\\projekti\\teretana\\is teretana\\views\\izvjestaj\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\views\\izvjestaj\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|c:\\users\\ensar\\desktop\\projekti\\teretana\\is teretana\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9C6FFC62-DD73-4ABA-8D70-FA8CF69C0742}|IS teretana\\IS teretana.csproj|solutionrelative:is teretana\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -64,6 +84,71 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Clan\\Index.cshtml",
+              "RelativeDocumentMoniker": "IS teretana\\Views\\Clan\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Clan\\Index.cshtml",
+              "RelativeToolTip": "IS teretana\\Views\\Clan\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T15:03:33.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\PlanTreninga\\Index.cshtml",
+              "RelativeDocumentMoniker": "IS teretana\\Views\\PlanTreninga\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\PlanTreninga\\Index.cshtml",
+              "RelativeToolTip": "IS teretana\\Views\\PlanTreninga\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T15:03:01.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\PovratnaInformacija\\Index.cshtml",
+              "RelativeDocumentMoniker": "IS teretana\\Views\\PovratnaInformacija\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\PovratnaInformacija\\Index.cshtml",
+              "RelativeToolTip": "IS teretana\\Views\\PovratnaInformacija\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T15:02:24.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Poruka\\Index.cshtml",
+              "RelativeDocumentMoniker": "IS teretana\\Views\\Poruka\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Poruka\\Index.cshtml",
+              "RelativeToolTip": "IS teretana\\Views\\Poruka\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T15:00:05.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Izvjestaj\\Index.cshtml",
+              "RelativeDocumentMoniker": "IS teretana\\Views\\Izvjestaj\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Izvjestaj\\Index.cshtml",
+              "RelativeToolTip": "IS teretana\\Views\\Izvjestaj\\Index.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T14:59:25.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "IS teretana\\Views\\Admin\\Index.cshtml",
               "ToolTip": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Admin\\Index.cshtml",
@@ -75,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\TerminTreninga\\Index.cshtml",
               "RelativeDocumentMoniker": "IS teretana\\Views\\TerminTreninga\\Index.cshtml",
@@ -88,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Trener\\Index.cshtml",
               "RelativeDocumentMoniker": "IS teretana\\Views\\Trener\\Index.cshtml",
@@ -101,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "IS teretana\\Views\\_ViewStart.cshtml",
@@ -114,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "IS teretana\\Views\\_ViewImports.cshtml",
@@ -127,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Teretanas\\Index.cshtml",
               "RelativeDocumentMoniker": "IS teretana\\Views\\Teretanas\\Index.cshtml",
@@ -140,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Napredak\\Index.cshtml",
               "RelativeDocumentMoniker": "IS teretana\\Views\\Napredak\\Index.cshtml",
@@ -153,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "IS teretana\\Views\\Shared\\_LoginPartial.cshtml",
@@ -166,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "IS teretana\\Views\\Shared\\_Layout.cshtml",
@@ -179,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ensar\\Desktop\\Projekti\\Teretana\\IS teretana\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "IS teretana\\Views\\Home\\Index.cshtml",
