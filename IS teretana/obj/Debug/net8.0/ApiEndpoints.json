@@ -1,0 +1,2292 @@
+[
+  {
+    "ContainingType": "IS_teretana.Controllers.HomeController",
+    "Method": "Index",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.AdminController",
+    "Method": "Create",
+    "RelativePath": "Admin/Create",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.AdminController",
+    "Method": "Create",
+    "RelativePath": "Admin/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DatumZaposlenja",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.AdminController",
+    "Method": "Delete",
+    "RelativePath": "Admin/Delete",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.AdminController",
+    "Method": "DeleteConfirmed",
+    "RelativePath": "Admin/Delete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.AdminController",
+    "Method": "Details",
+    "RelativePath": "Admin/Details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.AdminController",
+    "Method": "Edit",
+    "RelativePath": "Admin/Edit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.AdminController",
+    "Method": "Edit",
+    "RelativePath": "Admin/Edit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DatumZaposlenja",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.AdminController",
+    "Method": "Index",
+    "RelativePath": "Admin/Index",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.ClanController",
+    "Method": "Create",
+    "RelativePath": "Clan/Create",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.ClanController",
+    "Method": "Create",
+    "RelativePath": "Clan/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.ClanController",
+    "Method": "Delete",
+    "RelativePath": "Clan/Delete",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.ClanController",
+    "Method": "DeleteConfirmed",
+    "RelativePath": "Clan/Delete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.ClanController",
+    "Method": "Details",
+    "RelativePath": "Clan/Details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.ClanController",
+    "Method": "Edit",
+    "RelativePath": "Clan/Edit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.ClanController",
+    "Method": "Edit",
+    "RelativePath": "Clan/Edit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.ClanController",
+    "Method": "Index",
+    "RelativePath": "Clan/Index",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.HomeController",
+    "Method": "Index",
+    "RelativePath": "Home/Index",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.IzvjestajController",
+    "Method": "Create",
+    "RelativePath": "Izvjestaj/Create",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.IzvjestajController",
+    "Method": "Create",
+    "RelativePath": "Izvjestaj/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Datum",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Opis",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "AdminID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Admin.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Admin.Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Admin.Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Admin.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Admin.DatumZaposlenja",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.IzvjestajController",
+    "Method": "Delete",
+    "RelativePath": "Izvjestaj/Delete",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.IzvjestajController",
+    "Method": "DeleteConfirmed",
+    "RelativePath": "Izvjestaj/Delete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.IzvjestajController",
+    "Method": "Details",
+    "RelativePath": "Izvjestaj/Details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.IzvjestajController",
+    "Method": "Edit",
+    "RelativePath": "Izvjestaj/Edit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.IzvjestajController",
+    "Method": "Edit",
+    "RelativePath": "Izvjestaj/Edit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Datum",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Opis",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "AdminID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Admin.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Admin.Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Admin.Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Admin.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Admin.DatumZaposlenja",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.IzvjestajController",
+    "Method": "Index",
+    "RelativePath": "Izvjestaj/Index",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.NapredakController",
+    "Method": "Create",
+    "RelativePath": "Napredak/Create",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.NapredakController",
+    "Method": "Create",
+    "RelativePath": "Napredak/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreningaID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Datum",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Opis",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Naziv",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Opis",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.ClanID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.TrenerID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.TeretanaID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Clan.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Clan.Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Clan.Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Clan.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Clan.Status",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Trener.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Trener.Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Trener.Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Trener.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Trener.Specijalizacija",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Teretana.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Teretana.Naziv",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Teretana.Adresa",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Teretana.Kontakt",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Teretana.RadnoVrijeme",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.NapredakController",
+    "Method": "Delete",
+    "RelativePath": "Napredak/Delete",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.NapredakController",
+    "Method": "DeleteConfirmed",
+    "RelativePath": "Napredak/Delete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.NapredakController",
+    "Method": "Details",
+    "RelativePath": "Napredak/Details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.NapredakController",
+    "Method": "Edit",
+    "RelativePath": "Napredak/Edit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.NapredakController",
+    "Method": "Edit",
+    "RelativePath": "Napredak/Edit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreningaID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Datum",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Opis",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Naziv",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Opis",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.ClanID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.TrenerID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.TeretanaID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Clan.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Clan.Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Clan.Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Clan.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Clan.Status",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Trener.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Trener.Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Trener.Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Trener.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Trener.Specijalizacija",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Teretana.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Teretana.Naziv",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Teretana.Adresa",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Teretana.Kontakt",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreninga.Teretana.RadnoVrijeme",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.NapredakController",
+    "Method": "Index",
+    "RelativePath": "Napredak/Index",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PlanTreningaController",
+    "Method": "Create",
+    "RelativePath": "PlanTreninga/Create",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PlanTreningaController",
+    "Method": "Create",
+    "RelativePath": "PlanTreninga/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Naziv",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Opis",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ClanID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "TrenerID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "TeretanaID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Clan.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Clan.Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Clan.Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Clan.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Clan.Status",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Trener.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Trener.Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Trener.Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Trener.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Trener.Specijalizacija",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Teretana.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Teretana.Naziv",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Teretana.Adresa",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Teretana.Kontakt",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Teretana.RadnoVrijeme",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PlanTreningaController",
+    "Method": "Delete",
+    "RelativePath": "PlanTreninga/Delete",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PlanTreningaController",
+    "Method": "DeleteConfirmed",
+    "RelativePath": "PlanTreninga/Delete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PlanTreningaController",
+    "Method": "Details",
+    "RelativePath": "PlanTreninga/Details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PlanTreningaController",
+    "Method": "Edit",
+    "RelativePath": "PlanTreninga/Edit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PlanTreningaController",
+    "Method": "Edit",
+    "RelativePath": "PlanTreninga/Edit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Naziv",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Opis",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ClanID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "TrenerID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "TeretanaID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Clan.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Clan.Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Clan.Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Clan.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Clan.Status",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Trener.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Trener.Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Trener.Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Trener.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Trener.Specijalizacija",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Teretana.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Teretana.Naziv",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Teretana.Adresa",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Teretana.Kontakt",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Teretana.RadnoVrijeme",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PlanTreningaController",
+    "Method": "Index",
+    "RelativePath": "PlanTreninga/Index",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PorukaController",
+    "Method": "Create",
+    "RelativePath": "Poruka/Create",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PorukaController",
+    "Method": "Create",
+    "RelativePath": "Poruka/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Sadrzaj",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DatumSlanja",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "PosiljalacID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PrimalacID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Posiljalac.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Posiljalac.Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Posiljalac.Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Posiljalac.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Posiljalac.Specijalizacija",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Primalac.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Primalac.Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Primalac.Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Primalac.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Primalac.Status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PorukaController",
+    "Method": "Delete",
+    "RelativePath": "Poruka/Delete",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PorukaController",
+    "Method": "DeleteConfirmed",
+    "RelativePath": "Poruka/Delete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PorukaController",
+    "Method": "Details",
+    "RelativePath": "Poruka/Details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PorukaController",
+    "Method": "Edit",
+    "RelativePath": "Poruka/Edit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PorukaController",
+    "Method": "Edit",
+    "RelativePath": "Poruka/Edit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Sadrzaj",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DatumSlanja",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "PosiljalacID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PrimalacID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Posiljalac.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Posiljalac.Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Posiljalac.Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Posiljalac.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Posiljalac.Specijalizacija",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Primalac.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Primalac.Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Primalac.Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Primalac.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Primalac.Status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PorukaController",
+    "Method": "Index",
+    "RelativePath": "Poruka/Index",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PovratnaInformacijaController",
+    "Method": "Create",
+    "RelativePath": "PovratnaInformacija/Create",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PovratnaInformacijaController",
+    "Method": "Create",
+    "RelativePath": "PovratnaInformacija/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Ocjena",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Komentar",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DatumVrijeme",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreningaID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PovratnaInformacijaController",
+    "Method": "Delete",
+    "RelativePath": "PovratnaInformacija/Delete",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PovratnaInformacijaController",
+    "Method": "DeleteConfirmed",
+    "RelativePath": "PovratnaInformacija/Delete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PovratnaInformacijaController",
+    "Method": "Details",
+    "RelativePath": "PovratnaInformacija/Details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PovratnaInformacijaController",
+    "Method": "Edit",
+    "RelativePath": "PovratnaInformacija/Edit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PovratnaInformacijaController",
+    "Method": "Edit",
+    "RelativePath": "PovratnaInformacija/Edit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Ocjena",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Komentar",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DatumVrijeme",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "PlanTreningaID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.PovratnaInformacijaController",
+    "Method": "Index",
+    "RelativePath": "PovratnaInformacija/Index",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TeretanaController",
+    "Method": "Create",
+    "RelativePath": "Teretana/Create",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TeretanaController",
+    "Method": "Create",
+    "RelativePath": "Teretana/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Naziv",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Adresa",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Kontakt",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RadnoVrijeme",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TeretanaController",
+    "Method": "Delete",
+    "RelativePath": "Teretana/Delete",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TeretanaController",
+    "Method": "DeleteConfirmed",
+    "RelativePath": "Teretana/Delete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TeretanaController",
+    "Method": "Details",
+    "RelativePath": "Teretana/Details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TeretanaController",
+    "Method": "Edit",
+    "RelativePath": "Teretana/Edit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TeretanaController",
+    "Method": "Edit",
+    "RelativePath": "Teretana/Edit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Naziv",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Adresa",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Kontakt",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RadnoVrijeme",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TeretanaController",
+    "Method": "Index",
+    "RelativePath": "Teretana/Index",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TerminTreningaController",
+    "Method": "Create",
+    "RelativePath": "TerminTreninga/Create",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TerminTreningaController",
+    "Method": "Create",
+    "RelativePath": "TerminTreninga/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Datum",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Vrijeme",
+        "Type": "System.TimeSpan",
+        "IsRequired": false
+      },
+      {
+        "Name": "TeretanaID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "TrenerID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ClanID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Teretana.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Teretana.Naziv",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Teretana.Adresa",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Teretana.Kontakt",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Teretana.RadnoVrijeme",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Trener.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Trener.Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Trener.Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Trener.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Trener.Specijalizacija",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Clan.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Clan.Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Clan.Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Clan.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Clan.Status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TerminTreningaController",
+    "Method": "Delete",
+    "RelativePath": "TerminTreninga/Delete",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TerminTreningaController",
+    "Method": "DeleteConfirmed",
+    "RelativePath": "TerminTreninga/Delete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TerminTreningaController",
+    "Method": "Details",
+    "RelativePath": "TerminTreninga/Details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TerminTreningaController",
+    "Method": "Edit",
+    "RelativePath": "TerminTreninga/Edit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TerminTreningaController",
+    "Method": "Edit",
+    "RelativePath": "TerminTreninga/Edit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Datum",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Vrijeme",
+        "Type": "System.TimeSpan",
+        "IsRequired": false
+      },
+      {
+        "Name": "TeretanaID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "TrenerID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ClanID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Teretana.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Teretana.Naziv",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Teretana.Adresa",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Teretana.Kontakt",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Teretana.RadnoVrijeme",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Trener.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Trener.Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Trener.Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Trener.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Trener.Specijalizacija",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Clan.ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Clan.Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Clan.Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Clan.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Clan.Status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TerminTreningaController",
+    "Method": "Index",
+    "RelativePath": "TerminTreninga/Index",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TrenerController",
+    "Method": "Create",
+    "RelativePath": "Trener/Create",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TrenerController",
+    "Method": "Create",
+    "RelativePath": "Trener/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Specijalizacija",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TrenerController",
+    "Method": "Delete",
+    "RelativePath": "Trener/Delete",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TrenerController",
+    "Method": "DeleteConfirmed",
+    "RelativePath": "Trener/Delete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TrenerController",
+    "Method": "Details",
+    "RelativePath": "Trener/Details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TrenerController",
+    "Method": "Edit",
+    "RelativePath": "Trener/Edit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TrenerController",
+    "Method": "Edit",
+    "RelativePath": "Trener/Edit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Ime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Prezime",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Specijalizacija",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IS_teretana.Controllers.TrenerController",
+    "Method": "Index",
+    "RelativePath": "Trener/Index",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

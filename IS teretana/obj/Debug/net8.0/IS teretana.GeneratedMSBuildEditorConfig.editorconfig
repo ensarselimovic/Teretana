@@ -1,0 +1,265 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = IS_teretana
+build_property.RootNamespace = IS_teretana
+build_property.ProjectDir = C:\Users\sumej\source\repos\IS teretana\IS teretana\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\sumej\source\repos\IS teretana\IS teretana
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Admin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Admin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Admin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Admin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Clan/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Clan/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Clan/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Clan/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Clan/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Izvjestaj/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXp2amVzdGFqXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Izvjestaj/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXp2amVzdGFqXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Izvjestaj/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXp2amVzdGFqXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Izvjestaj/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXp2amVzdGFqXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Izvjestaj/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXp2amVzdGFqXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Napredak/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFwcmVkYWtcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Napredak/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFwcmVkYWtcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Napredak/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFwcmVkYWtcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Napredak/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFwcmVkYWtcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Napredak/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFwcmVkYWtcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/PlanTreninga/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhblRyZW5pbmdhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/PlanTreninga/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhblRyZW5pbmdhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/PlanTreninga/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhblRyZW5pbmdhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/PlanTreninga/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhblRyZW5pbmdhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/PlanTreninga/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhblRyZW5pbmdhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Poruka/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydWthXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Poruka/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydWthXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Poruka/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydWthXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Poruka/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydWthXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Poruka/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydWthXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/PovratnaInformacija/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG92cmF0bmFJbmZvcm1hY2lqYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/PovratnaInformacija/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG92cmF0bmFJbmZvcm1hY2lqYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/PovratnaInformacija/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG92cmF0bmFJbmZvcm1hY2lqYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/PovratnaInformacija/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG92cmF0bmFJbmZvcm1hY2lqYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/PovratnaInformacija/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG92cmF0bmFJbmZvcm1hY2lqYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Teretana/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVyZXRhbmFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Teretana/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVyZXRhbmFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Teretana/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVyZXRhbmFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Teretana/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVyZXRhbmFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Teretana/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVyZXRhbmFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/TerminTreninga/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVybWluVHJlbmluZ2FcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/TerminTreninga/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVybWluVHJlbmluZ2FcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/TerminTreninga/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVybWluVHJlbmluZ2FcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/TerminTreninga/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVybWluVHJlbmluZ2FcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/TerminTreninga/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVybWluVHJlbmluZ2FcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Trener/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlbmVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Trener/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlbmVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Trener/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlbmVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Trener/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlbmVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Trener/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlbmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sumej/source/repos/IS teretana/IS teretana/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wq6vr6luv1
